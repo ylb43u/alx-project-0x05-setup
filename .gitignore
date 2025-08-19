@@ -3,8 +3,10 @@
 # dependencies
 alx-project-0x07/node_modules
 alx-project-0x08/node_modules
+alx-project-0x09/node_modules
 alx-project-0x07/.pnp
 alx-project-0x08/.pnp
+alx-project-0x09/.pnp
 .pnp.*
 .yarn/*
 !.yarn/patches
@@ -15,17 +17,21 @@ alx-project-0x08/.pnp
 # testing
 alx-project-0x07/coverage
 alx-project-0x08/coverage
+alx-project-0x09/coverage
 
 # next.js
 alx-project-0x07/.next/
 alx-project-0x08/.next/
+alx-project-0x09/.next/
 
 alx-project-0x07/out/
-alx-project-0x0_/out/
+alx-project-0x08/out/
+alx-project-0x09/out/
 
 # production
 alx-project-0x07/build
-alx-project-0x0_/build
+alx-project-0x08/build
+alx-project-0x09/build
 
 # misc
 .DS_Store
